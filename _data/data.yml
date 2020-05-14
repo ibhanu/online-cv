@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Deepak Choudhary
-    tagline: DevOps Engineer
+    name: Bhanu Pratap
+    tagline: Web And Android Test Automation Engineer
     avatar: deep.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: deepak@flux7.com
-    phone: 90350901082
-    website: NA #do not add http://
-    linkedin: linkedin link
-    github: deepsvc
+    email: contact@bhanupratap.me
+    phone: 7089265084
+    website: bhanupratap.me
+    linkedin: itsbhanupratap
+    github: ibhanu
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@itsbhanupratap'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -46,13 +46,8 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: 
+I am pursuing B.E. in Computer Science.I'm very open-minded and frank with people and try my best to eliminate any communication gap between myself and the others. Computer science was always my favourite subject. Throughout my college period I worked and developed many projects with Python and it's libraries for real life problem statements. I love to automate my daily tasks through scripting and python, and learn about new technologies and enhance my skills for future betterment. I am proficient in Python, C++, Java, and C. 
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -170,7 +165,7 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Appium and Selenium
         level: 98%
 
       - name: Angular
